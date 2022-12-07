@@ -100,4 +100,4 @@ No terminal, quando quisermos rodar os cenários que estão nomeados com tags, b
 
 ````bash
 Cucumber –-tag @nome_da_tag
-... (46 linhas)
+...
